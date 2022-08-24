@@ -6,3 +6,5 @@ Copyright (c) 2022 Björn Rudner
 ## What?
 
 Add configuration data for backup of Servers and Applications
+
+See <https://www.itophub.io/wiki/page?id=2_7_0%3Afeature%3Atag> for details on how to use and query tags.
