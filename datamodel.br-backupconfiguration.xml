@@ -61,7 +61,7 @@
                                 <item id="fieldset:Server:backupconfiguration" _delta="define">
                                     <rank>9</rank>
                                     <items>
-                                        <item id="patchmethod_id">
+                                        <item id="backupmethod">
                                             <rank>10</rank>
                                         </item>
                                         <item id="backupdescription">
