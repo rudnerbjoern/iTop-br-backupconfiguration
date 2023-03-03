@@ -1,6 +1,6 @@
 # iTop: br-backupconfiguration
 
-Copyright (c) 2022 Björn Rudner
+Copyright (c) 2022-2023 Björn Rudner
 [![License](https://img.shields.io/github/license/rudnerbjoern/iTop-br-backupconfiguration)](https://github.com/rudnerbjoern/iTop-br-backupconfiguration/blob/main/LICENSE)
 
 ## What?
