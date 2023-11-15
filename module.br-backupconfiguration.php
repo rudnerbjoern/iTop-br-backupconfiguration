@@ -3,14 +3,14 @@
 /**
  * @copyright   Copyright (C) 2021-2023 Björn Rudner
  * @license     https://www.gnu.org/licenses/gpl-3.0.en.html
- * @version     2023-03-03
+ * @version     2023-11-15
  *
  * iTop module definition file
  */
 
 SetupWebPage::AddModule(
     __FILE__, // Path to the current file, all other file names are relative to the directory containing this file
-    'br-backupconfiguration/0.2.1',
+    'br-backupconfiguration/0.3.0',
     array(
         // Identification
         //
