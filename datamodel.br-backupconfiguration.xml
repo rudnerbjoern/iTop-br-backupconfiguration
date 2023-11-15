@@ -85,9 +85,9 @@
         <class id="DBServer" _delta="if_exists">
             <presentation>
                 <details>
-                    <items>
-                        <item id="col:col2" _delta="must_exist">
-                            <rank>90</rank>
+                    <items _delta="must_exist">
+                        <item id="col:col2">
+                            <rank>180</rank>
                             <items>
                                 <item id="fieldset:DBServer:backupconfiguration" _delta="define">
                                     <rank>9</rank>
@@ -107,7 +107,7 @@
                 <search>
                     <items>
                         <item id="backupmethod" _delta="define">
-                            <rank>90</rank>
+                            <rank>180</rank>
                         </item>
                     </items>
                 </search>
