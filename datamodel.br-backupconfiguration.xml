@@ -102,5 +102,14 @@
                 <entry id="Class:FunctionalCI/Attribute:backupdescription+" _delta="define">Zusätzliche Informationen zum Backup</entry>
             </entries>
         </dictionary>
+        <dictionary id="RU RU">
+            <entries>
+                <entry id="Server:backupconfiguration" _delta="define">Конфигурация резервного копирования</entry>
+                <entry id="Class:FunctionalCI/Attribute:backupmethod" _delta="define">Метод резервного копирования</entry>
+                <entry id="Class:FunctionalCI/Attribute:backupmethod+" _delta="define">Способ резервного копирования этой системы</entry>
+                <entry id="Class:FunctionalCI/Attribute:backupdescription" _delta="define">Описание резервного копирования</entry>
+                <entry id="Class:FunctionalCI/Attribute:backupdescription+" _delta="define">Дополнительная информация для резервного копирования</entry>
+            </entries>
+        </dictionary>
     </dictionaries>
 </itop_design>
