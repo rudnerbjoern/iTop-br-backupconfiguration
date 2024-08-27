@@ -11,7 +11,7 @@ See <https://www.itophub.io/wiki/page?id=2_7_0%3Afeature%3Atag> for details on h
 
 ## iTop Compatibility
 
-The extension was tested on iTop 2.7.11
+The extension was tested on iTop 2.7.11 and 3.1.1
 
 ## Contributors
 
