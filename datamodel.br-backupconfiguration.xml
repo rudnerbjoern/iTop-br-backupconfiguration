@@ -114,33 +114,4 @@
             </presentation>
         </class>
     </classes>
-    <dictionaries>
-        <dictionary id="EN US">
-            <entries>
-                <entry id="Server:backupconfiguration" _delta="define">Backup Configuration</entry>
-                <entry id="Class:FunctionalCI/Attribute:backupmethod" _delta="define">Backup method</entry>
-                <entry id="Class:FunctionalCI/Attribute:backupmethod+" _delta="define">Method to backup this system</entry>
-                <entry id="Class:FunctionalCI/Attribute:backupdescription" _delta="define">Backup description</entry>
-                <entry id="Class:FunctionalCI/Attribute:backupdescription+" _delta="define">Additional information for backup</entry>
-            </entries>
-        </dictionary>
-        <dictionary id="DE DE">
-            <entries>
-                <entry id="Server:backupconfiguration" _delta="define">Backup Konfiguration</entry>
-                <entry id="Class:FunctionalCI/Attribute:backupmethod" _delta="define">Backup Methode</entry>
-                <entry id="Class:FunctionalCI/Attribute:backupmethod+" _delta="define">Methode zur Datensicherung</entry>
-                <entry id="Class:FunctionalCI/Attribute:backupdescription" _delta="define">Backup Beschreibung</entry>
-                <entry id="Class:FunctionalCI/Attribute:backupdescription+" _delta="define">Zusätzliche Informationen zum Backup</entry>
-            </entries>
-        </dictionary>
-        <dictionary id="RU RU">
-            <entries>
-                <entry id="Server:backupconfiguration" _delta="define">Конфигурация резервного копирования</entry>
-                <entry id="Class:FunctionalCI/Attribute:backupmethod" _delta="define">Метод резервного копирования</entry>
-                <entry id="Class:FunctionalCI/Attribute:backupmethod+" _delta="define">Способ резервного копирования этой системы</entry>
-                <entry id="Class:FunctionalCI/Attribute:backupdescription" _delta="define">Описание резервного копирования</entry>
-                <entry id="Class:FunctionalCI/Attribute:backupdescription+" _delta="define">Дополнительная информация для резервного копирования</entry>
-            </entries>
-        </dictionary>
-    </dictionaries>
 </itop_design>
