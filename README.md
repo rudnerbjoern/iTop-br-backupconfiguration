@@ -26,6 +26,13 @@ This extension enhances the `FunctionalCI` class by introducing two new fields f
 
 For more information on using and querying tags, refer to the iTop documentation: [Tag Usage](https://www.itophub.io/wiki/page?id=2_7_0%3Afeature%3Atag).
 
+The additional fields are enabled in the presentation of the following classes:
+
+- Server
+- VirtualMachine
+- NetworkDevice
+- DBServer
+
 ### Tags Configuration
 
 ![Tags Configuration](Screenshots/TagsConfiguration.png)
