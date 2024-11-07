@@ -82,6 +82,36 @@
                 </search>
             </presentation>
         </class>
+        <class id="NetworkDevice" _delta="if_exists">
+            <presentation>
+                <details>
+                    <items>
+                        <item id="col:col2" _delta="must_exist">
+                            <items>
+                                <item id="fieldset:Server:backupconfiguration" _delta="define">
+                                    <rank>26</rank>
+                                    <items>
+                                        <item id="backupmethod">
+                                            <rank>10</rank>
+                                        </item>
+                                        <item id="backupdescription">
+                                            <rank>20</rank>
+                                        </item>
+                                    </items>
+                                </item>
+                            </items>
+                        </item>
+                    </items>
+                </details>
+                <search>
+                    <items>
+                        <item id="backupmethod" _delta="define">
+                            <rank>90</rank>
+                        </item>
+                    </items>
+                </search>
+            </presentation>
+        </class>
         <class id="DBServer" _delta="if_exists">
             <presentation>
                 <details>
@@ -89,7 +119,7 @@
                         <item id="col:col2">
                             <rank>180</rank>
                             <items>
-                                <item id="fieldset:DBServer:backupconfiguration" _delta="define">
+                                <item id="fieldset:Server:backupconfiguration" _delta="define">
                                     <rank>9</rank>
                                     <items>
                                         <item id="backupmethod">
