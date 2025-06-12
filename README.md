@@ -1,6 +1,6 @@
 # iTop-br-backupconfiguration
 
-Copyright (c) 2024 Björn Rudner
+Copyright (c) 2024-2025 Björn Rudner
 [![License](https://img.shields.io/github/license/rudnerbjoern/iTop-br-backupconfiguration)](https://github.com/rudnerbjoern/iTop-br-backupconfiguration/blob/main/LICENSE)
 
 An iTop extension for structured configuration of backup processes for servers and applications, improving visibility and management of essential backup information.
@@ -42,12 +42,12 @@ The additional fields are enabled in the presentation of the following classes:
 This extension is compatible with the following iTop versions:
 
 - **Branch [2.7](https://github.com/rudnerbjoern/iTop-br-backupconfiguration/tree/itop/2.7)**: Supports iTop 2.7 and 3.1.
-- **Branch [main](https://github.com/rudnerbjoern/iTop-br-backupconfiguration/tree/main)**: Supports iTop 3.1 and above.
+- **Branch [main](https://github.com/rudnerbjoern/iTop-br-backupconfiguration/tree/main)**: Supports iTop 3.2 and above.
 
 Tested iTop versions:
 
 - 2.7.10
-- 3.1.1 and 3.2.0-2
+- 3.2.1
 
 ## Installation
 
