@@ -8,6 +8,7 @@
         "backupmethod",
         "baseinfo",
         "bizmodel",
+        "Combodo",
         "connectablecis",
         "criticity",
         "dashlet",
@@ -16,6 +17,7 @@
         "datacenter",
         "extkey",
         "fieldset",
+        "itop",
         "mgmt",
         "moreinfo",
         "neighbour",
@@ -24,6 +26,7 @@
         "otherinfo",
         "physicalinterface",
         "providercontracts",
+        "Rudner",
         "serialnumber"
     ],
     "editor.formatOnSave": true,

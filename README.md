@@ -77,3 +77,8 @@ This project is licensed under the GPL-3.0 License © 2022-2024 Björn Rudner. F
 ---
 
 This extension is ideal for organizations aiming to improve the documentation and management of backup processes for critical infrastructure within iTop.
+
+## Development
+
+See [tests](tests/README.md) for the PHP test runner and XML schema validation,
+and [release preparation](scripts/README.md) for version updates and packaging.
